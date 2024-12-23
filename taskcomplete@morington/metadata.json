@@ -1,0 +1,10 @@
+{
+    "website": "https://github.com/morington/TaskComplete",
+    "uuid": "taskcomplete@morington",
+    "name": "TaskComplete",
+    "max-instances": -1,
+    "description": "Task Complete application",
+    "path": "~/.local/share/cinnamon/applets/taskcomplete@morington/",
+    "css_files": ["stylesheet.css"],
+    "version": "1.0"
+}
